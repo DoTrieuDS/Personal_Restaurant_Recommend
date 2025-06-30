@@ -70,11 +70,12 @@ Travel_Planner/
 ## Features
 - Semantic POI search with BGE-M3
 - Fast FAISS vector similarity  
-- Mock T5 reranking
+- T5 reranking
+- T5 personal message generation
 - Travel-optimized categorization
 - Web test interfaces
 - Lightweight/Full modes
-- Ready for real T5 integration
+
 
 ## Testing
 ```bash
