@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+
+# Virtual environment (QUAN TRỌNG!)
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model files và data lớn
+*.bin
+*.pt
+*.pth
+*.safetensors
+modules/recommendation/BGE-M3_embedding/
+modules/recommendation/T5_*/
+modules/recommendation/data/
+modules/recommendation/models/
+
+# Data files
+*.parquet
+*.pkl
+*.npz
+
+# FAISS indices
+**/indices/
+**/indices_backup*/
+**/faiss_db/
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+*.cache
+
+# Temporary files
+*.tmp
+*.temp
+EOF
