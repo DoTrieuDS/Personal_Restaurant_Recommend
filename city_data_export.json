@@ -1,0 +1,5265 @@
+{
+  "Abington": {
+    "total_restaurants": 6,
+    "avg_rating": 4.5,
+    "top_cuisines": [
+      "restaurants",
+      "japanese",
+      "sushi bars",
+      "soup",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 4
+    },
+    "business_ids_count": 6
+  },
+  "Affton": {
+    "total_restaurants": 5,
+    "avg_rating": 4.3,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sushi bars",
+      "bakeries",
+      "barbeque"
+    ],
+    "price_distribution": {
+      "expensive": 5
+    },
+    "business_ids_count": 5
+  },
+  "Alton": {
+    "total_restaurants": 12,
+    "avg_rating": 4.083333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "beer"
+    ],
+    "price_distribution": {
+      "expensive": 10,
+      "moderate": 2
+    },
+    "business_ids_count": 12
+  },
+  "Ambler": {
+    "total_restaurants": 17,
+    "avg_rating": 4.088235294117647,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "italian",
+      "sushi bars",
+      "japanese"
+    ],
+    "price_distribution": {
+      "expensive": 16,
+      "moderate": 1
+    },
+    "business_ids_count": 17
+  },
+  "Antioch": {
+    "total_restaurants": 13,
+    "avg_rating": 4.230769230769231,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "juice bars & smoothies",
+      "delis",
+      "sushi bars"
+    ],
+    "price_distribution": {
+      "expensive": 12,
+      "luxury": 1
+    },
+    "business_ids_count": 13
+  },
+  "Apollo Beach": {
+    "total_restaurants": 6,
+    "avg_rating": 4.083333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "sandwiches",
+      "breakfast & brunch",
+      "cuban",
+      "latin american"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 1
+    },
+    "business_ids_count": 6
+  },
+  "Ardmore": {
+    "total_restaurants": 22,
+    "avg_rating": 4.2272727272727275,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "mediterranean",
+      "thai",
+      "salad"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 20,
+      "moderate": 1
+    },
+    "business_ids_count": 22
+  },
+  "Arnold": {
+    "total_restaurants": 10,
+    "avg_rating": 4.15,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sushi bars",
+      "japanese",
+      "cafes"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 8,
+      "moderate": 1
+    },
+    "business_ids_count": 10
+  },
+  "Ashland City": {
+    "total_restaurants": 5,
+    "avg_rating": 4.4,
+    "top_cuisines": [
+      "restaurants",
+      "italian",
+      "tex-mex",
+      "mexican",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 4
+    },
+    "business_ids_count": 5
+  },
+  "Aston": {
+    "total_restaurants": 6,
+    "avg_rating": 4.166666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "breakfast & brunch",
+      "food trucks",
+      "caterers"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 1
+    },
+    "business_ids_count": 6
+  },
+  "Audubon": {
+    "total_restaurants": 10,
+    "avg_rating": 4.4,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "cafes",
+      "coffee & tea",
+      "bakeries"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 9
+    },
+    "business_ids_count": 10
+  },
+  "Avon": {
+    "total_restaurants": 14,
+    "avg_rating": 4.107142857142857,
+    "top_cuisines": [
+      "restaurants",
+      "soup",
+      "seafood",
+      "food",
+      "italian"
+    ],
+    "price_distribution": {
+      "expensive": 10,
+      "luxury": 1,
+      "moderate": 3
+    },
+    "business_ids_count": 14
+  },
+  "Bala Cynwyd": {
+    "total_restaurants": 11,
+    "avg_rating": 3.9545454545454546,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sandwiches",
+      "breakfast & brunch",
+      "coffee & tea"
+    ],
+    "price_distribution": {
+      "expensive": 8,
+      "moderate": 3
+    },
+    "business_ids_count": 11
+  },
+  "Ballwin": {
+    "total_restaurants": 13,
+    "avg_rating": 3.8846153846153846,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "japanese",
+      "sushi bars",
+      "burgers"
+    ],
+    "price_distribution": {
+      "expensive": 9,
+      "moderate": 4
+    },
+    "business_ids_count": 13
+  },
+  "Barrington": {
+    "total_restaurants": 6,
+    "avg_rating": 4.416666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "sushi bars",
+      "nightlife",
+      "sports bars",
+      "bars"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 5
+    },
+    "business_ids_count": 6
+  },
+  "Beaumont": {
+    "total_restaurants": 6,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "cafes",
+      "french",
+      "canadian (new)"
+    ],
+    "price_distribution": {
+      "expensive": 6
+    },
+    "business_ids_count": 6
+  },
+  "Beech Grove": {
+    "total_restaurants": 8,
+    "avg_rating": 4.3125,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bakeries",
+      "breakfast & brunch",
+      "desserts"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 7
+    },
+    "business_ids_count": 8
+  },
+  "Belle Chasse": {
+    "total_restaurants": 6,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "american (new)",
+      "food",
+      "seafood",
+      "food trucks"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 1
+    },
+    "business_ids_count": 6
+  },
+  "Belleair Bluffs": {
+    "total_restaurants": 8,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "breakfast & brunch",
+      "coffee & tea",
+      "nightlife"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 6,
+      "moderate": 1
+    },
+    "business_ids_count": 8
+  },
+  "Belleville": {
+    "total_restaurants": 16,
+    "avg_rating": 4.1875,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bars",
+      "nightlife",
+      "sushi bars"
+    ],
+    "price_distribution": {
+      "expensive": 14,
+      "luxury": 1,
+      "moderate": 1
+    },
+    "business_ids_count": 16
+  },
+  "Bellmawr": {
+    "total_restaurants": 6,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "event planning & services",
+      "salad",
+      "sandwiches",
+      "caterers"
+    ],
+    "price_distribution": {
+      "expensive": 6
+    },
+    "business_ids_count": 6
+  },
+  "Bensalem": {
+    "total_restaurants": 19,
+    "avg_rating": 4.026315789473684,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "event planning & services",
+      "caterers",
+      "italian"
+    ],
+    "price_distribution": {
+      "expensive": 12,
+      "luxury": 1,
+      "moderate": 6
+    },
+    "business_ids_count": 19
+  },
+  "Berlin": {
+    "total_restaurants": 7,
+    "avg_rating": 4.428571428571429,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "breakfast & brunch",
+      "greek",
+      "beer"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 6
+    },
+    "business_ids_count": 7
+  },
+  "Berwyn": {
+    "total_restaurants": 11,
+    "avg_rating": 3.9545454545454546,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "salad",
+      "italian",
+      "cafes"
+    ],
+    "price_distribution": {
+      "expensive": 7,
+      "moderate": 4
+    },
+    "business_ids_count": 11
+  },
+  "Blackwood": {
+    "total_restaurants": 9,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bakeries",
+      "filipino",
+      "tacos"
+    ],
+    "price_distribution": {
+      "expensive": 6,
+      "moderate": 3
+    },
+    "business_ids_count": 9
+  },
+  "Blue Bell": {
+    "total_restaurants": 14,
+    "avg_rating": 3.892857142857143,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "seafood",
+      "event planning & services",
+      "nightlife"
+    ],
+    "price_distribution": {
+      "expensive": 7,
+      "moderate": 7
+    },
+    "business_ids_count": 14
+  },
+  "Boise": {
+    "total_restaurants": 70,
+    "avg_rating": 4.15,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "american (new)"
+    ],
+    "price_distribution": {
+      "expensive": 53,
+      "luxury": 7,
+      "moderate": 10
+    },
+    "business_ids_count": 70
+  },
+  "Boothwyn": {
+    "total_restaurants": 5,
+    "avg_rating": 4.4,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "cajun/creole",
+      "greek",
+      "mediterranean"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 4
+    },
+    "business_ids_count": 5
+  },
+  "Bordentown": {
+    "total_restaurants": 7,
+    "avg_rating": 4.071428571428571,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bakeries",
+      "cafes",
+      "steakhouses"
+    ],
+    "price_distribution": {
+      "expensive": 6,
+      "moderate": 1
+    },
+    "business_ids_count": 7
+  },
+  "Boyertown": {
+    "total_restaurants": 7,
+    "avg_rating": 4.357142857142857,
+    "top_cuisines": [
+      "restaurants",
+      "nightlife",
+      "bars",
+      "italian",
+      "caterers"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 6
+    },
+    "business_ids_count": 7
+  },
+  "Brandon": {
+    "total_restaurants": 33,
+    "avg_rating": 4.166666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sandwiches",
+      "pizza",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "luxury": 5,
+      "expensive": 21,
+      "moderate": 7
+    },
+    "business_ids_count": 33
+  },
+  "Brentwood": {
+    "total_restaurants": 28,
+    "avg_rating": 4.196428571428571,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "juice bars & smoothies",
+      "japanese",
+      "asian fusion"
+    ],
+    "price_distribution": {
+      "expensive": 24,
+      "luxury": 1,
+      "moderate": 3
+    },
+    "business_ids_count": 28
+  },
+  "Bridgeport": {
+    "total_restaurants": 8,
+    "avg_rating": 3.9375,
+    "top_cuisines": [
+      "restaurants",
+      "nightlife",
+      "bars",
+      "italian",
+      "bakeries"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 3
+    },
+    "business_ids_count": 8
+  },
+  "Bridgeton": {
+    "total_restaurants": 6,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "seafood",
+      "persian/iranian",
+      "seafood markets",
+      "specialty food"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 5
+    },
+    "business_ids_count": 6
+  },
+  "Bristol": {
+    "total_restaurants": 6,
+    "avg_rating": 4.416666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "delis",
+      "grocery",
+      "convenience stores"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 5
+    },
+    "business_ids_count": 6
+  },
+  "Broomall": {
+    "total_restaurants": 9,
+    "avg_rating": 4.111111111111111,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "desserts",
+      "breakfast & brunch",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "expensive": 8,
+      "moderate": 1
+    },
+    "business_ids_count": 9
+  },
+  "Brownsburg": {
+    "total_restaurants": 9,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "sushi bars",
+      "japanese",
+      "thai",
+      "arcades"
+    ],
+    "price_distribution": {
+      "expensive": 7,
+      "moderate": 2
+    },
+    "business_ids_count": 9
+  },
+  "Bryn Mawr": {
+    "total_restaurants": 18,
+    "avg_rating": 4.055555555555555,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "cafes",
+      "specialty food",
+      "coffee & tea"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 11,
+      "moderate": 6
+    },
+    "business_ids_count": 18
+  },
+  "Buckingham": {
+    "total_restaurants": 5,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "juice bars & smoothies",
+      "cafes",
+      "coffee & tea",
+      "food"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 2,
+      "moderate": 2
+    },
+    "business_ids_count": 5
+  },
+  "Burlington": {
+    "total_restaurants": 10,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "breakfast & brunch",
+      "seafood",
+      "bakeries"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 7,
+      "moderate": 1
+    },
+    "business_ids_count": 10
+  },
+  "Camden": {
+    "total_restaurants": 11,
+    "avg_rating": 4.454545454545454,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "cafes",
+      "breakfast & brunch",
+      "specialty food"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 8,
+      "moderate": 1
+    },
+    "business_ids_count": 11
+  },
+  "Carmel": {
+    "total_restaurants": 34,
+    "avg_rating": 3.985294117647059,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "salad"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 22,
+      "moderate": 11
+    },
+    "business_ids_count": 34
+  },
+  "Carpinteria": {
+    "total_restaurants": 17,
+    "avg_rating": 4.176470588235294,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "shopping",
+      "arts & crafts",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "expensive": 13,
+      "luxury": 2,
+      "moderate": 2
+    },
+    "business_ids_count": 17
+  },
+  "Chadds Ford": {
+    "total_restaurants": 9,
+    "avg_rating": 4.222222222222222,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "coffee & tea",
+      "asian fusion",
+      "sushi bars"
+    ],
+    "price_distribution": {
+      "expensive": 7,
+      "luxury": 1,
+      "moderate": 1
+    },
+    "business_ids_count": 9
+  },
+  "Chalfont": {
+    "total_restaurants": 10,
+    "avg_rating": 4.05,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "cafes",
+      "japanese",
+      "asian fusion"
+    ],
+    "price_distribution": {
+      "expensive": 8,
+      "moderate": 2
+    },
+    "business_ids_count": 10
+  },
+  "Chalmette": {
+    "total_restaurants": 10,
+    "avg_rating": 4.35,
+    "top_cuisines": [
+      "restaurants",
+      "bakeries",
+      "food",
+      "thai",
+      "burgers"
+    ],
+    "price_distribution": {
+      "expensive": 7,
+      "luxury": 2,
+      "moderate": 1
+    },
+    "business_ids_count": 10
+  },
+  "Cherry Hill": {
+    "total_restaurants": 25,
+    "avg_rating": 3.96,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "specialty food",
+      "pizza",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "expensive": 19,
+      "moderate": 6
+    },
+    "business_ids_count": 25
+  },
+  "Chester": {
+    "total_restaurants": 5,
+    "avg_rating": 4.1,
+    "top_cuisines": [
+      "restaurants",
+      "caribbean",
+      "food",
+      "food delivery services",
+      "southern"
+    ],
+    "price_distribution": {
+      "expensive": 5
+    },
+    "business_ids_count": 5
+  },
+  "Chester Springs": {
+    "total_restaurants": 7,
+    "avg_rating": 4.071428571428571,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "southern",
+      "nightlife",
+      "bars"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 2
+    },
+    "business_ids_count": 7
+  },
+  "Chesterfield": {
+    "total_restaurants": 12,
+    "avg_rating": 4.166666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "mediterranean"
+    ],
+    "price_distribution": {
+      "expensive": 8,
+      "luxury": 1,
+      "moderate": 3
+    },
+    "business_ids_count": 12
+  },
+  "Cinnaminson": {
+    "total_restaurants": 9,
+    "avg_rating": 4.055555555555555,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "specialty food",
+      "asian fusion",
+      "sushi bars"
+    ],
+    "price_distribution": {
+      "expensive": 7,
+      "moderate": 2
+    },
+    "business_ids_count": 9
+  },
+  "Clayton": {
+    "total_restaurants": 16,
+    "avg_rating": 4.0625,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "cafes",
+      "desserts",
+      "bakeries"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 9,
+      "moderate": 5
+    },
+    "business_ids_count": 16
+  },
+  "Clearwater": {
+    "total_restaurants": 59,
+    "avg_rating": 4.1525423728813555,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "american (traditional)",
+      "sandwiches",
+      "bars"
+    ],
+    "price_distribution": {
+      "expensive": 48,
+      "luxury": 2,
+      "moderate": 9
+    },
+    "business_ids_count": 59
+  },
+  "Clearwater Beach": {
+    "total_restaurants": 8,
+    "avg_rating": 4.125,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "seafood",
+      "bars",
+      "mexican"
+    ],
+    "price_distribution": {
+      "expensive": 6,
+      "moderate": 2
+    },
+    "business_ids_count": 8
+  },
+  "Clementon": {
+    "total_restaurants": 10,
+    "avg_rating": 4.05,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "italian",
+      "delis",
+      "bakeries"
+    ],
+    "price_distribution": {
+      "expensive": 9,
+      "moderate": 1
+    },
+    "business_ids_count": 10
+  },
+  "Clifton Heights": {
+    "total_restaurants": 6,
+    "avg_rating": 4.333333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "specialty food",
+      "delis",
+      "seafood"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "luxury": 1
+    },
+    "business_ids_count": 6
+  },
+  "Collegeville": {
+    "total_restaurants": 13,
+    "avg_rating": 4.076923076923077,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sushi bars",
+      "japanese",
+      "specialty food"
+    ],
+    "price_distribution": {
+      "expensive": 12,
+      "moderate": 1
+    },
+    "business_ids_count": 13
+  },
+  "Collingdale": {
+    "total_restaurants": 5,
+    "avg_rating": 4.4,
+    "top_cuisines": [
+      "restaurants",
+      "vietnamese",
+      "pizza",
+      "burgers",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "expensive": 5
+    },
+    "business_ids_count": 5
+  },
+  "Collingswood": {
+    "total_restaurants": 17,
+    "avg_rating": 4.235294117647059,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "mediterranean",
+      "italian",
+      "seafood"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 15,
+      "moderate": 1
+    },
+    "business_ids_count": 17
+  },
+  "Collinsville": {
+    "total_restaurants": 8,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "bakeries"
+    ],
+    "price_distribution": {
+      "expensive": 6,
+      "moderate": 2
+    },
+    "business_ids_count": 8
+  },
+  "Colmar": {
+    "total_restaurants": 5,
+    "avg_rating": 4.2,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "donuts",
+      "tea rooms",
+      "coffee & tea"
+    ],
+    "price_distribution": {
+      "expensive": 4,
+      "moderate": 1
+    },
+    "business_ids_count": 5
+  },
+  "Columbia": {
+    "total_restaurants": 5,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "american (new)",
+      "cafes",
+      "food",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "expensive": 4,
+      "moderate": 1
+    },
+    "business_ids_count": 5
+  },
+  "Columbus": {
+    "total_restaurants": 6,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "chicken wings",
+      "barbeque",
+      "burgers",
+      "pizza"
+    ],
+    "price_distribution": {
+      "expensive": 6
+    },
+    "business_ids_count": 6
+  },
+  "Conshohocken": {
+    "total_restaurants": 19,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "event planning & services",
+      "cafes",
+      "coffee & tea"
+    ],
+    "price_distribution": {
+      "expensive": 14,
+      "moderate": 5
+    },
+    "business_ids_count": 19
+  },
+  "Creve Coeur": {
+    "total_restaurants": 10,
+    "avg_rating": 3.95,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "specialty food",
+      "salad",
+      "juice bars & smoothies"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 5
+    },
+    "business_ids_count": 10
+  },
+  "Croydon": {
+    "total_restaurants": 6,
+    "avg_rating": 4.333333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bakeries",
+      "barbeque",
+      "chinese"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 5
+    },
+    "business_ids_count": 6
+  },
+  "Delran": {
+    "total_restaurants": 6,
+    "avg_rating": 4.083333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "turkish",
+      "cafes",
+      "afghan",
+      "kebab"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 1
+    },
+    "business_ids_count": 6
+  },
+  "Deptford": {
+    "total_restaurants": 5,
+    "avg_rating": 4.1,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "salad",
+      "cafes",
+      "bakeries"
+    ],
+    "price_distribution": {
+      "expensive": 3,
+      "moderate": 2
+    },
+    "business_ids_count": 5
+  },
+  "Deptford Township": {
+    "total_restaurants": 6,
+    "avg_rating": 4.166666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "salad",
+      "italian",
+      "tapas/small plates",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 5
+    },
+    "business_ids_count": 6
+  },
+  "Des Peres": {
+    "total_restaurants": 9,
+    "avg_rating": 3.8333333333333335,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "mediterranean",
+      "bakeries",
+      "nightlife"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 4,
+      "moderate": 4
+    },
+    "business_ids_count": 9
+  },
+  "Devon": {
+    "total_restaurants": 6,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "breakfast & brunch",
+      "cafes",
+      "vietnamese",
+      "thai"
+    ],
+    "price_distribution": {
+      "expensive": 3,
+      "moderate": 3
+    },
+    "business_ids_count": 6
+  },
+  "Downingtown": {
+    "total_restaurants": 13,
+    "avg_rating": 4.038461538461538,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "cafes",
+      "bakeries",
+      "barbeque"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 10,
+      "moderate": 2
+    },
+    "business_ids_count": 13
+  },
+  "Doylestown": {
+    "total_restaurants": 21,
+    "avg_rating": 3.880952380952381,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "breakfast & brunch",
+      "coffee & tea",
+      "cafes"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 12,
+      "moderate": 8
+    },
+    "business_ids_count": 21
+  },
+  "Dresher": {
+    "total_restaurants": 6,
+    "avg_rating": 4.083333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "japanese",
+      "korean",
+      "asian fusion",
+      "juice bars & smoothies"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 1
+    },
+    "business_ids_count": 6
+  },
+  "Drexel Hill": {
+    "total_restaurants": 12,
+    "avg_rating": 4.333333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "breakfast & brunch",
+      "japanese",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 11
+    },
+    "business_ids_count": 12
+  },
+  "Dunedin": {
+    "total_restaurants": 25,
+    "avg_rating": 4.22,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bars",
+      "nightlife",
+      "bakeries"
+    ],
+    "price_distribution": {
+      "expensive": 23,
+      "moderate": 2
+    },
+    "business_ids_count": 25
+  },
+  "Eagle": {
+    "total_restaurants": 16,
+    "avg_rating": 4.03125,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "caterers",
+      "event planning & services",
+      "barbeque"
+    ],
+    "price_distribution": {
+      "expensive": 12,
+      "moderate": 4
+    },
+    "business_ids_count": 16
+  },
+  "Eagleville": {
+    "total_restaurants": 6,
+    "avg_rating": 4.166666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "italian",
+      "sandwiches",
+      "american (new)",
+      "pubs"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 3,
+      "moderate": 2
+    },
+    "business_ids_count": 6
+  },
+  "East Norriton": {
+    "total_restaurants": 8,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "mexican",
+      "bars",
+      "nightlife",
+      "japanese"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 4,
+      "moderate": 3
+    },
+    "business_ids_count": 8
+  },
+  "Edmonton": {
+    "total_restaurants": 156,
+    "avg_rating": 4.092948717948718,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "luxury": 8,
+      "expensive": 118,
+      "moderate": 30
+    },
+    "business_ids_count": 156
+  },
+  "Edwardsville": {
+    "total_restaurants": 14,
+    "avg_rating": 4.214285714285714,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bakeries",
+      "pizza",
+      "salad"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 11,
+      "moderate": 2
+    },
+    "business_ids_count": 14
+  },
+  "Elkins Park": {
+    "total_restaurants": 11,
+    "avg_rating": 4.181818181818182,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "korean",
+      "specialty food",
+      "italian"
+    ],
+    "price_distribution": {
+      "expensive": 8,
+      "luxury": 1,
+      "moderate": 2
+    },
+    "business_ids_count": 11
+  },
+  "Evesham Township": {
+    "total_restaurants": 7,
+    "avg_rating": 4.142857142857143,
+    "top_cuisines": [
+      "restaurants",
+      "mexican",
+      "sandwiches",
+      "food",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 5,
+      "moderate": 1
+    },
+    "business_ids_count": 7
+  },
+  "Ewing": {
+    "total_restaurants": 11,
+    "avg_rating": 3.909090909090909,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "event planning & services",
+      "sushi bars",
+      "japanese"
+    ],
+    "price_distribution": {
+      "expensive": 9,
+      "moderate": 2
+    },
+    "business_ids_count": 11
+  },
+  "Ewing Township": {
+    "total_restaurants": 8,
+    "avg_rating": 4.125,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "comfort food",
+      "event planning & services",
+      "italian"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 5,
+      "moderate": 2
+    },
+    "business_ids_count": 8
+  },
+  "Exton": {
+    "total_restaurants": 17,
+    "avg_rating": 3.8823529411764706,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "cafes",
+      "american (traditional)",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "expensive": 8,
+      "moderate": 9
+    },
+    "business_ids_count": 17
+  },
+  "Fairless Hills": {
+    "total_restaurants": 6,
+    "avg_rating": 4.166666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "hot dogs",
+      "sandwiches",
+      "steakhouses",
+      "food"
+    ],
+    "price_distribution": {
+      "expensive": 6
+    },
+    "business_ids_count": 6
+  },
+  "Fairview Heights": {
+    "total_restaurants": 5,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "mexican",
+      "chinese",
+      "thai",
+      "tex-mex"
+    ],
+    "price_distribution": {
+      "expensive": 4,
+      "moderate": 1
+    },
+    "business_ids_count": 5
+  },
+  "Feasterville": {
+    "total_restaurants": 6,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "hot dogs",
+      "ice cream & frozen yogurt",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 2,
+      "moderate": 3
+    },
+    "business_ids_count": 6
+  },
+  "Feasterville Trevose": {
+    "total_restaurants": 5,
+    "avg_rating": 4.3,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "seafood",
+      "specialty food",
+      "seafood markets"
+    ],
+    "price_distribution": {
+      "expensive": 5
+    },
+    "business_ids_count": 5
+  },
+  "Feasterville-Trevose": {
+    "total_restaurants": 6,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "mexican",
+      "latin american",
+      "fast food"
+    ],
+    "price_distribution": {
+      "expensive": 6
+    },
+    "business_ids_count": 6
+  },
+  "Fenton": {
+    "total_restaurants": 13,
+    "avg_rating": 4.038461538461538,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "event planning & services",
+      "caterers",
+      "greek"
+    ],
+    "price_distribution": {
+      "expensive": 8,
+      "moderate": 5
+    },
+    "business_ids_count": 13
+  },
+  "Ferguson": {
+    "total_restaurants": 5,
+    "avg_rating": 4.4,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "comfort food",
+      "american (new)",
+      "yoga"
+    ],
+    "price_distribution": {
+      "expensive": 4,
+      "luxury": 1
+    },
+    "business_ids_count": 5
+  },
+  "Fishers": {
+    "total_restaurants": 27,
+    "avg_rating": 4.185185185185185,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sushi bars",
+      "salad",
+      "specialty food"
+    ],
+    "price_distribution": {
+      "expensive": 24,
+      "moderate": 3
+    },
+    "business_ids_count": 27
+  },
+  "Florissant": {
+    "total_restaurants": 13,
+    "avg_rating": 4.346153846153846,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "thai",
+      "nightlife",
+      "bars"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 10,
+      "moderate": 1
+    },
+    "business_ids_count": 13
+  },
+  "Flourtown": {
+    "total_restaurants": 6,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bakeries",
+      "mexican",
+      "thai"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 1
+    },
+    "business_ids_count": 6
+  },
+  "Folcroft": {
+    "total_restaurants": 6,
+    "avg_rating": 4.416666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "breakfast & brunch",
+      "seafood",
+      "sandwiches",
+      "burgers"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 5
+    },
+    "business_ids_count": 6
+  },
+  "Folsom": {
+    "total_restaurants": 11,
+    "avg_rating": 4.2272727272727275,
+    "top_cuisines": [
+      "restaurants",
+      "italian",
+      "thai",
+      "mexican",
+      "hot dogs"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 8,
+      "moderate": 1
+    },
+    "business_ids_count": 11
+  },
+  "Fort Washington": {
+    "total_restaurants": 5,
+    "avg_rating": 3.8,
+    "top_cuisines": [
+      "restaurants",
+      "mexican",
+      "american (new)",
+      "breakfast & brunch",
+      "desserts"
+    ],
+    "price_distribution": {
+      "expensive": 3,
+      "moderate": 2
+    },
+    "business_ids_count": 5
+  },
+  "Franklin": {
+    "total_restaurants": 35,
+    "avg_rating": 3.8714285714285714,
+    "top_cuisines": [
+      "restaurants",
+      "bars",
+      "nightlife",
+      "food",
+      "american (traditional)"
+    ],
+    "price_distribution": {
+      "expensive": 22,
+      "moderate": 13
+    },
+    "business_ids_count": 35
+  },
+  "Frazer": {
+    "total_restaurants": 6,
+    "avg_rating": 3.75,
+    "top_cuisines": [
+      "restaurants",
+      "sandwiches",
+      "burgers",
+      "middle eastern",
+      "mediterranean"
+    ],
+    "price_distribution": {
+      "expensive": 2,
+      "moderate": 4
+    },
+    "business_ids_count": 6
+  },
+  "Gallatin": {
+    "total_restaurants": 7,
+    "avg_rating": 4.357142857142857,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "desserts",
+      "mexican",
+      "bars"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 6
+    },
+    "business_ids_count": 7
+  },
+  "Garden City": {
+    "total_restaurants": 8,
+    "avg_rating": 4.125,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sandwiches",
+      "vegan",
+      "delis"
+    ],
+    "price_distribution": {
+      "expensive": 6,
+      "moderate": 2
+    },
+    "business_ids_count": 8
+  },
+  "Garnet Valley": {
+    "total_restaurants": 7,
+    "avg_rating": 4.214285714285714,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "asian fusion",
+      "thai",
+      "food trucks"
+    ],
+    "price_distribution": {
+      "expensive": 7
+    },
+    "business_ids_count": 7
+  },
+  "Gibsonton": {
+    "total_restaurants": 6,
+    "avg_rating": 3.9166666666666665,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "food trucks",
+      "nightlife",
+      "bars"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 1
+    },
+    "business_ids_count": 6
+  },
+  "Glassboro": {
+    "total_restaurants": 9,
+    "avg_rating": 4.222222222222222,
+    "top_cuisines": [
+      "restaurants",
+      "japanese",
+      "food",
+      "sushi bars",
+      "ramen"
+    ],
+    "price_distribution": {
+      "expensive": 9
+    },
+    "business_ids_count": 9
+  },
+  "Glen Mills": {
+    "total_restaurants": 13,
+    "avg_rating": 4.115384615384615,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "seafood",
+      "specialty food",
+      "japanese"
+    ],
+    "price_distribution": {
+      "expensive": 11,
+      "moderate": 2
+    },
+    "business_ids_count": 13
+  },
+  "Glenside": {
+    "total_restaurants": 12,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "breakfast & brunch",
+      "food",
+      "mediterranean",
+      "delis"
+    ],
+    "price_distribution": {
+      "expensive": 9,
+      "moderate": 3
+    },
+    "business_ids_count": 12
+  },
+  "Gloucester City": {
+    "total_restaurants": 8,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "bars",
+      "nightlife",
+      "chicken wings",
+      "mediterranean"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 5,
+      "moderate": 1
+    },
+    "business_ids_count": 8
+  },
+  "Godfrey": {
+    "total_restaurants": 5,
+    "avg_rating": 4.2,
+    "top_cuisines": [
+      "restaurants",
+      "breakfast & brunch",
+      "american (traditional)",
+      "chinese",
+      "barbeque"
+    ],
+    "price_distribution": {
+      "expensive": 5
+    },
+    "business_ids_count": 5
+  },
+  "Goleta": {
+    "total_restaurants": 20,
+    "avg_rating": 3.95,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "american (traditional)",
+      "breakfast & brunch",
+      "seafood"
+    ],
+    "price_distribution": {
+      "expensive": 13,
+      "moderate": 7
+    },
+    "business_ids_count": 20
+  },
+  "Goodlettsville": {
+    "total_restaurants": 14,
+    "avg_rating": 4.107142857142857,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "desserts",
+      "hot dogs",
+      "japanese"
+    ],
+    "price_distribution": {
+      "expensive": 11,
+      "moderate": 3
+    },
+    "business_ids_count": 14
+  },
+  "Granite City": {
+    "total_restaurants": 10,
+    "avg_rating": 4.3,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "cafes",
+      "steakhouses",
+      "sushi bars"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 9
+    },
+    "business_ids_count": 10
+  },
+  "Greenwood": {
+    "total_restaurants": 16,
+    "avg_rating": 4.09375,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sushi bars",
+      "specialty food",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "expensive": 14,
+      "moderate": 2
+    },
+    "business_ids_count": 16
+  },
+  "Gretna": {
+    "total_restaurants": 15,
+    "avg_rating": 4.166666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "cafes",
+      "coffee & tea",
+      "bakeries"
+    ],
+    "price_distribution": {
+      "luxury": 3,
+      "expensive": 8,
+      "moderate": 4
+    },
+    "business_ids_count": 15
+  },
+  "Gulfport": {
+    "total_restaurants": 13,
+    "avg_rating": 4.3076923076923075,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "desserts",
+      "cafes",
+      "coffee & tea"
+    ],
+    "price_distribution": {
+      "expensive": 9,
+      "luxury": 2,
+      "moderate": 2
+    },
+    "business_ids_count": 13
+  },
+  "Haddon Heights": {
+    "total_restaurants": 9,
+    "avg_rating": 4.333333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "italian",
+      "food",
+      "asian fusion",
+      "pizza"
+    ],
+    "price_distribution": {
+      "expensive": 7,
+      "luxury": 1,
+      "moderate": 1
+    },
+    "business_ids_count": 9
+  },
+  "Haddon Township": {
+    "total_restaurants": 7,
+    "avg_rating": 4.142857142857143,
+    "top_cuisines": [
+      "restaurants",
+      "nightlife",
+      "bars",
+      "food",
+      "seafood"
+    ],
+    "price_distribution": {
+      "expensive": 7
+    },
+    "business_ids_count": 7
+  },
+  "Haddonfield": {
+    "total_restaurants": 14,
+    "avg_rating": 4.178571428571429,
+    "top_cuisines": [
+      "restaurants",
+      "mediterranean",
+      "french",
+      "breakfast & brunch",
+      "american (new)"
+    ],
+    "price_distribution": {
+      "expensive": 13,
+      "moderate": 1
+    },
+    "business_ids_count": 14
+  },
+  "Hainesport": {
+    "total_restaurants": 5,
+    "avg_rating": 4.2,
+    "top_cuisines": [
+      "restaurants",
+      "chinese",
+      "desserts",
+      "ice cream & frozen yogurt",
+      "food"
+    ],
+    "price_distribution": {
+      "expensive": 5
+    },
+    "business_ids_count": 5
+  },
+  "Hamilton": {
+    "total_restaurants": 8,
+    "avg_rating": 4.3125,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "specialty food",
+      "caribbean"
+    ],
+    "price_distribution": {
+      "expensive": 8
+    },
+    "business_ids_count": 8
+  },
+  "Harahan": {
+    "total_restaurants": 9,
+    "avg_rating": 4.222222222222222,
+    "top_cuisines": [
+      "restaurants",
+      "seafood",
+      "thai",
+      "soup",
+      "vietnamese"
+    ],
+    "price_distribution": {
+      "expensive": 9
+    },
+    "business_ids_count": 9
+  },
+  "Harleysville": {
+    "total_restaurants": 10,
+    "avg_rating": 4.3,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "indian",
+      "buffets",
+      "vegetarian"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 8
+    },
+    "business_ids_count": 10
+  },
+  "Harvey": {
+    "total_restaurants": 14,
+    "avg_rating": 4.214285714285714,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "food stands",
+      "bubble tea",
+      "vietnamese"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 9,
+      "moderate": 3
+    },
+    "business_ids_count": 14
+  },
+  "Hatboro": {
+    "total_restaurants": 9,
+    "avg_rating": 4.166666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "cafes",
+      "vegan",
+      "burgers"
+    ],
+    "price_distribution": {
+      "expensive": 8,
+      "moderate": 1
+    },
+    "business_ids_count": 9
+  },
+  "Havertown": {
+    "total_restaurants": 11,
+    "avg_rating": 4.181818181818182,
+    "top_cuisines": [
+      "restaurants",
+      "irish",
+      "food",
+      "coffee & tea",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "expensive": 9,
+      "luxury": 1,
+      "moderate": 1
+    },
+    "business_ids_count": 11
+  },
+  "Hazelwood": {
+    "total_restaurants": 5,
+    "avg_rating": 4.2,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "donuts",
+      "indian",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "expensive": 4,
+      "moderate": 1
+    },
+    "business_ids_count": 5
+  },
+  "Hendersonville": {
+    "total_restaurants": 19,
+    "avg_rating": 4.026315789473684,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "breakfast & brunch",
+      "vegetarian",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "expensive": 16,
+      "moderate": 3
+    },
+    "business_ids_count": 19
+  },
+  "Hermitage": {
+    "total_restaurants": 12,
+    "avg_rating": 4.208333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "barbeque",
+      "bars",
+      "nightlife",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "expensive": 8,
+      "luxury": 1,
+      "moderate": 3
+    },
+    "business_ids_count": 12
+  },
+  "High Ridge": {
+    "total_restaurants": 5,
+    "avg_rating": 4.3,
+    "top_cuisines": [
+      "restaurants",
+      "bars",
+      "nightlife",
+      "cafes",
+      "food"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 4
+    },
+    "business_ids_count": 5
+  },
+  "Hockessin": {
+    "total_restaurants": 6,
+    "avg_rating": 4.166666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "specialty food",
+      "coffee & tea",
+      "meat shops"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 4,
+      "moderate": 1
+    },
+    "business_ids_count": 6
+  },
+  "Holiday": {
+    "total_restaurants": 8,
+    "avg_rating": 3.8125,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "specialty food",
+      "desserts",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 3
+    },
+    "business_ids_count": 8
+  },
+  "Horsham": {
+    "total_restaurants": 8,
+    "avg_rating": 4.125,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sushi bars",
+      "buffets",
+      "middle eastern"
+    ],
+    "price_distribution": {
+      "expensive": 8
+    },
+    "business_ids_count": 8
+  },
+  "Huntingdon Valley": {
+    "total_restaurants": 12,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "coffee & tea",
+      "salad",
+      "asian fusion"
+    ],
+    "price_distribution": {
+      "expensive": 12
+    },
+    "business_ids_count": 12
+  },
+  "Indian Rocks Beach": {
+    "total_restaurants": 12,
+    "avg_rating": 4.041666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bakeries",
+      "bars",
+      "barbeque"
+    ],
+    "price_distribution": {
+      "expensive": 8,
+      "moderate": 4
+    },
+    "business_ids_count": 12
+  },
+  "Indian Shores": {
+    "total_restaurants": 6,
+    "avg_rating": 4.083333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bars",
+      "nightlife",
+      "pubs"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 1
+    },
+    "business_ids_count": 6
+  },
+  "Indianapolis": {
+    "total_restaurants": 237,
+    "avg_rating": 4.156118143459915,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sandwiches",
+      "nightlife",
+      "bars"
+    ],
+    "price_distribution": {
+      "luxury": 12,
+      "expensive": 183,
+      "moderate": 42
+    },
+    "business_ids_count": 237
+  },
+  "Isla Vista": {
+    "total_restaurants": 11,
+    "avg_rating": 4.136363636363637,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "mediterranean",
+      "greek",
+      "vegetarian"
+    ],
+    "price_distribution": {
+      "expensive": 10,
+      "moderate": 1
+    },
+    "business_ids_count": 11
+  },
+  "Jamison": {
+    "total_restaurants": 5,
+    "avg_rating": 4.1,
+    "top_cuisines": [
+      "restaurants",
+      "coffee & tea",
+      "food",
+      "italian",
+      "juice bars & smoothies"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 3,
+      "moderate": 1
+    },
+    "business_ids_count": 5
+  },
+  "Jefferson": {
+    "total_restaurants": 6,
+    "avg_rating": 4.333333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "donuts",
+      "american (traditional)",
+      "chicken wings"
+    ],
+    "price_distribution": {
+      "expensive": 6
+    },
+    "business_ids_count": 6
+  },
+  "Jenkintown": {
+    "total_restaurants": 12,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "asian fusion",
+      "specialty food",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 10,
+      "moderate": 1
+    },
+    "business_ids_count": 12
+  },
+  "Kenner": {
+    "total_restaurants": 17,
+    "avg_rating": 4.147058823529412,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sushi bars",
+      "salad",
+      "middle eastern"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 12,
+      "moderate": 4
+    },
+    "business_ids_count": 17
+  },
+  "Kenneth City": {
+    "total_restaurants": 9,
+    "avg_rating": 4.277777777777778,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bakeries",
+      "coffee & tea",
+      "donuts"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 8
+    },
+    "business_ids_count": 9
+  },
+  "Kennett Square": {
+    "total_restaurants": 11,
+    "avg_rating": 3.909090909090909,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "italian",
+      "bakeries",
+      "mediterranean"
+    ],
+    "price_distribution": {
+      "expensive": 8,
+      "moderate": 3
+    },
+    "business_ids_count": 11
+  },
+  "King Of Prussia": {
+    "total_restaurants": 6,
+    "avg_rating": 3.75,
+    "top_cuisines": [
+      "restaurants",
+      "american (traditional)",
+      "salad",
+      "nightlife",
+      "steakhouses"
+    ],
+    "price_distribution": {
+      "expensive": 2,
+      "moderate": 4
+    },
+    "business_ids_count": 6
+  },
+  "King of Prussia": {
+    "total_restaurants": 17,
+    "avg_rating": 3.8529411764705883,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "salad"
+    ],
+    "price_distribution": {
+      "expensive": 11,
+      "moderate": 6
+    },
+    "business_ids_count": 17
+  },
+  "Kingston Springs": {
+    "total_restaurants": 5,
+    "avg_rating": 4.6,
+    "top_cuisines": [
+      "restaurants",
+      "home & garden",
+      "breakfast & brunch",
+      "shopping",
+      "cafes"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 4
+    },
+    "business_ids_count": 5
+  },
+  "Kirkwood": {
+    "total_restaurants": 15,
+    "avg_rating": 4.066666666666666,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "coffee & tea"
+    ],
+    "price_distribution": {
+      "expensive": 12,
+      "moderate": 3
+    },
+    "business_ids_count": 15
+  },
+  "La Vergne": {
+    "total_restaurants": 9,
+    "avg_rating": 4.611111111111111,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "chicken wings",
+      "thai",
+      "soul food"
+    ],
+    "price_distribution": {
+      "luxury": 3,
+      "expensive": 6
+    },
+    "business_ids_count": 9
+  },
+  "Lafayette Hill": {
+    "total_restaurants": 9,
+    "avg_rating": 4.166666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "middle eastern",
+      "persian/iranian",
+      "italian"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 5,
+      "moderate": 3
+    },
+    "business_ids_count": 9
+  },
+  "Lambertville": {
+    "total_restaurants": 13,
+    "avg_rating": 4.153846153846154,
+    "top_cuisines": [
+      "restaurants",
+      "coffee & tea",
+      "cafes",
+      "food",
+      "event planning & services"
+    ],
+    "price_distribution": {
+      "luxury": 3,
+      "expensive": 6,
+      "moderate": 4
+    },
+    "business_ids_count": 13
+  },
+  "Land O' Lakes": {
+    "total_restaurants": 6,
+    "avg_rating": 4.333333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "breakfast & brunch",
+      "asian fusion",
+      "bubble tea"
+    ],
+    "price_distribution": {
+      "expensive": 6
+    },
+    "business_ids_count": 6
+  },
+  "Langhorne": {
+    "total_restaurants": 12,
+    "avg_rating": 4.083333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 9,
+      "moderate": 2
+    },
+    "business_ids_count": 12
+  },
+  "Lansdale": {
+    "total_restaurants": 21,
+    "avg_rating": 4.190476190476191,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sushi bars",
+      "specialty food",
+      "coffee & tea"
+    ],
+    "price_distribution": {
+      "expensive": 18,
+      "luxury": 1,
+      "moderate": 2
+    },
+    "business_ids_count": 21
+  },
+  "Lansdowne": {
+    "total_restaurants": 13,
+    "avg_rating": 4.153846153846154,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "delis",
+      "american (new)",
+      "cafes"
+    ],
+    "price_distribution": {
+      "expensive": 12,
+      "moderate": 1
+    },
+    "business_ids_count": 13
+  },
+  "Largo": {
+    "total_restaurants": 30,
+    "avg_rating": 4.133333333333334,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "breakfast & brunch",
+      "cafes",
+      "american (traditional)"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 26,
+      "moderate": 3
+    },
+    "business_ids_count": 30
+  },
+  "Laurel Springs": {
+    "total_restaurants": 5,
+    "avg_rating": 4.2,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "italian",
+      "herbs & spices",
+      "specialty food"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 4
+    },
+    "business_ids_count": 5
+  },
+  "Lebanon": {
+    "total_restaurants": 8,
+    "avg_rating": 4.375,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "breakfast & brunch",
+      "american (traditional)",
+      "coffee & tea"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 7
+    },
+    "business_ids_count": 8
+  },
+  "Levittown": {
+    "total_restaurants": 16,
+    "avg_rating": 4.125,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sushi bars",
+      "event planning & services",
+      "caterers"
+    ],
+    "price_distribution": {
+      "expensive": 12,
+      "luxury": 2,
+      "moderate": 2
+    },
+    "business_ids_count": 16
+  },
+  "Lithia": {
+    "total_restaurants": 6,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "italian",
+      "mexican",
+      "sandwiches",
+      "pizza"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 3,
+      "moderate": 2
+    },
+    "business_ids_count": 6
+  },
+  "Lutz": {
+    "total_restaurants": 23,
+    "avg_rating": 4.304347826086956,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "vegetarian",
+      "vegan",
+      "desserts"
+    ],
+    "price_distribution": {
+      "luxury": 5,
+      "expensive": 13,
+      "moderate": 5
+    },
+    "business_ids_count": 23
+  },
+  "Madeira Beach": {
+    "total_restaurants": 10,
+    "avg_rating": 4.2,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "coffee & tea",
+      "ice cream & frozen yogurt",
+      "salad"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 8,
+      "moderate": 1
+    },
+    "business_ids_count": 10
+  },
+  "Madison": {
+    "total_restaurants": 7,
+    "avg_rating": 4.142857142857143,
+    "top_cuisines": [
+      "restaurants",
+      "seafood",
+      "mexican",
+      "southern",
+      "latin american"
+    ],
+    "price_distribution": {
+      "expensive": 6,
+      "moderate": 1
+    },
+    "business_ids_count": 7
+  },
+  "Malvern": {
+    "total_restaurants": 17,
+    "avg_rating": 4.029411764705882,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "mexican",
+      "cafes",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 11,
+      "moderate": 5
+    },
+    "business_ids_count": 17
+  },
+  "Manchester": {
+    "total_restaurants": 7,
+    "avg_rating": 4.142857142857143,
+    "top_cuisines": [
+      "restaurants",
+      "middle eastern",
+      "mediterranean",
+      "burgers",
+      "pakistani"
+    ],
+    "price_distribution": {
+      "expensive": 6,
+      "moderate": 1
+    },
+    "business_ids_count": 7
+  },
+  "Maple Glen": {
+    "total_restaurants": 7,
+    "avg_rating": 4.214285714285714,
+    "top_cuisines": [
+      "restaurants",
+      "mexican",
+      "tex-mex",
+      "latin american",
+      "indian"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 5,
+      "moderate": 1
+    },
+    "business_ids_count": 7
+  },
+  "Maple Shade": {
+    "total_restaurants": 9,
+    "avg_rating": 3.888888888888889,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "italian",
+      "japanese",
+      "sushi bars"
+    ],
+    "price_distribution": {
+      "expensive": 6,
+      "moderate": 3
+    },
+    "business_ids_count": 9
+  },
+  "Maple Shade Township": {
+    "total_restaurants": 5,
+    "avg_rating": 4.5,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "wraps",
+      "american (new)",
+      "juice bars & smoothies"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 4
+    },
+    "business_ids_count": 5
+  },
+  "Maplewood": {
+    "total_restaurants": 8,
+    "avg_rating": 4.0625,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bars",
+      "nightlife",
+      "chicken wings"
+    ],
+    "price_distribution": {
+      "expensive": 6,
+      "moderate": 2
+    },
+    "business_ids_count": 8
+  },
+  "Marana": {
+    "total_restaurants": 6,
+    "avg_rating": 4.166666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "chinese",
+      "nightlife",
+      "lounges",
+      "pubs"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 1
+    },
+    "business_ids_count": 6
+  },
+  "Marlton": {
+    "total_restaurants": 15,
+    "avg_rating": 3.966666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "breakfast & brunch",
+      "coffee & tea",
+      "delis"
+    ],
+    "price_distribution": {
+      "expensive": 10,
+      "moderate": 5
+    },
+    "business_ids_count": 15
+  },
+  "Marrero": {
+    "total_restaurants": 7,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "sushi bars",
+      "mediterranean",
+      "asian fusion",
+      "nightlife"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 2
+    },
+    "business_ids_count": 7
+  },
+  "Maryland Heights": {
+    "total_restaurants": 10,
+    "avg_rating": 3.9,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "indian",
+      "seafood",
+      "bars"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 3,
+      "moderate": 6
+    },
+    "business_ids_count": 10
+  },
+  "Mascoutah": {
+    "total_restaurants": 5,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "american (traditional)",
+      "food",
+      "german",
+      "ethnic food"
+    ],
+    "price_distribution": {
+      "expensive": 3,
+      "moderate": 2
+    },
+    "business_ids_count": 5
+  },
+  "McCordsville": {
+    "total_restaurants": 5,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bakeries",
+      "nightlife",
+      "mexican"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 2,
+      "moderate": 2
+    },
+    "business_ids_count": 5
+  },
+  "Medford": {
+    "total_restaurants": 11,
+    "avg_rating": 4.136363636363637,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "japanese",
+      "sushi bars",
+      "shopping"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 8,
+      "moderate": 2
+    },
+    "business_ids_count": 11
+  },
+  "Media": {
+    "total_restaurants": 23,
+    "avg_rating": 3.9782608695652173,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bars",
+      "nightlife",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "expensive": 15,
+      "moderate": 8
+    },
+    "business_ids_count": 23
+  },
+  "Merchantville": {
+    "total_restaurants": 11,
+    "avg_rating": 4.409090909090909,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "specialty food",
+      "halal",
+      "vegetarian"
+    ],
+    "price_distribution": {
+      "luxury": 3,
+      "expensive": 7,
+      "moderate": 1
+    },
+    "business_ids_count": 11
+  },
+  "Meridian": {
+    "total_restaurants": 29,
+    "avg_rating": 4.120689655172414,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "breakfast & brunch",
+      "american (traditional)",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "expensive": 21,
+      "luxury": 2,
+      "moderate": 6
+    },
+    "business_ids_count": 29
+  },
+  "Merion Station": {
+    "total_restaurants": 5,
+    "avg_rating": 4.2,
+    "top_cuisines": [
+      "restaurants",
+      "breakfast & brunch",
+      "kosher",
+      "indian",
+      "food"
+    ],
+    "price_distribution": {
+      "expensive": 5
+    },
+    "business_ids_count": 5
+  },
+  "Metairie": {
+    "total_restaurants": 46,
+    "avg_rating": 3.989130434782609,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "seafood",
+      "sandwiches",
+      "bars"
+    ],
+    "price_distribution": {
+      "expensive": 33,
+      "moderate": 13
+    },
+    "business_ids_count": 46
+  },
+  "Millstadt": {
+    "total_restaurants": 5,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "seafood",
+      "nightlife",
+      "bars",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "expensive": 4,
+      "moderate": 1
+    },
+    "business_ids_count": 5
+  },
+  "Montecito": {
+    "total_restaurants": 13,
+    "avg_rating": 4.076923076923077,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "bakeries"
+    ],
+    "price_distribution": {
+      "expensive": 9,
+      "moderate": 4
+    },
+    "business_ids_count": 13
+  },
+  "Montgomeryville": {
+    "total_restaurants": 5,
+    "avg_rating": 3.8,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "event planning & services",
+      "vegetarian",
+      "seafood"
+    ],
+    "price_distribution": {
+      "expensive": 2,
+      "moderate": 3
+    },
+    "business_ids_count": 5
+  },
+  "Moorestown": {
+    "total_restaurants": 13,
+    "avg_rating": 3.9615384615384617,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "american (new)",
+      "vegetarian",
+      "bakeries"
+    ],
+    "price_distribution": {
+      "expensive": 9,
+      "moderate": 4
+    },
+    "business_ids_count": 13
+  },
+  "Mooresville": {
+    "total_restaurants": 6,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "cafes",
+      "american (traditional)",
+      "sushi bars",
+      "japanese"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 1
+    },
+    "business_ids_count": 6
+  },
+  "Morrisville": {
+    "total_restaurants": 9,
+    "avg_rating": 4.166666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "southern",
+      "steakhouses",
+      "sushi bars",
+      "japanese"
+    ],
+    "price_distribution": {
+      "expensive": 7,
+      "moderate": 2
+    },
+    "business_ids_count": 9
+  },
+  "Mount Holly": {
+    "total_restaurants": 12,
+    "avg_rating": 4.208333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "breakfast & brunch",
+      "coffee & tea",
+      "seafood"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 9,
+      "moderate": 1
+    },
+    "business_ids_count": 12
+  },
+  "Mount Juliet": {
+    "total_restaurants": 16,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sushi bars",
+      "japanese",
+      "thai"
+    ],
+    "price_distribution": {
+      "expensive": 12,
+      "moderate": 4
+    },
+    "business_ids_count": 16
+  },
+  "Mount Laurel": {
+    "total_restaurants": 17,
+    "avg_rating": 3.9705882352941178,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "event planning & services",
+      "italian",
+      "specialty food"
+    ],
+    "price_distribution": {
+      "expensive": 11,
+      "moderate": 6
+    },
+    "business_ids_count": 17
+  },
+  "Mt. Juliet": {
+    "total_restaurants": 10,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "burgers",
+      "salad",
+      "coffee & tea"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 9
+    },
+    "business_ids_count": 10
+  },
+  "Mullica Hill": {
+    "total_restaurants": 5,
+    "avg_rating": 3.8,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "american (new)",
+      "nightlife",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "expensive": 3,
+      "moderate": 2
+    },
+    "business_ids_count": 5
+  },
+  "Narberth": {
+    "total_restaurants": 8,
+    "avg_rating": 4.1875,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "local services",
+      "juice bars & smoothies",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 7
+    },
+    "business_ids_count": 8
+  },
+  "Nashville": {
+    "total_restaurants": 208,
+    "avg_rating": 4.069711538461538,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "luxury": 7,
+      "expensive": 159,
+      "moderate": 42
+    },
+    "business_ids_count": 208
+  },
+  "New Castle": {
+    "total_restaurants": 11,
+    "avg_rating": 4.2727272727272725,
+    "top_cuisines": [
+      "restaurants",
+      "nightlife",
+      "food",
+      "bars",
+      "moroccan"
+    ],
+    "price_distribution": {
+      "expensive": 10,
+      "moderate": 1
+    },
+    "business_ids_count": 11
+  },
+  "New Hope": {
+    "total_restaurants": 14,
+    "avg_rating": 4.107142857142857,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "vegan",
+      "vegetarian",
+      "food trucks"
+    ],
+    "price_distribution": {
+      "expensive": 12,
+      "moderate": 2
+    },
+    "business_ids_count": 14
+  },
+  "New Orleans": {
+    "total_restaurants": 216,
+    "avg_rating": 4.087962962962963,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "luxury": 12,
+      "expensive": 162,
+      "moderate": 42
+    },
+    "business_ids_count": 216
+  },
+  "New Port Richey": {
+    "total_restaurants": 21,
+    "avg_rating": 4.071428571428571,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "american (new)",
+      "sandwiches",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "expensive": 17,
+      "moderate": 4
+    },
+    "business_ids_count": 21
+  },
+  "Newark": {
+    "total_restaurants": 14,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "middle eastern",
+      "bars",
+      "nightlife",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "expensive": 9,
+      "luxury": 1,
+      "moderate": 4
+    },
+    "business_ids_count": 14
+  },
+  "Newtown": {
+    "total_restaurants": 16,
+    "avg_rating": 4.0625,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "soup",
+      "italian",
+      "nightlife"
+    ],
+    "price_distribution": {
+      "expensive": 10,
+      "luxury": 1,
+      "moderate": 5
+    },
+    "business_ids_count": 16
+  },
+  "Newtown Square": {
+    "total_restaurants": 10,
+    "avg_rating": 4.4,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bakeries",
+      "salad",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 8
+    },
+    "business_ids_count": 10
+  },
+  "Nolensville": {
+    "total_restaurants": 12,
+    "avg_rating": 4.041666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "barbeque",
+      "american (traditional)",
+      "burgers"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 8,
+      "moderate": 3
+    },
+    "business_ids_count": 12
+  },
+  "Norristown": {
+    "total_restaurants": 15,
+    "avg_rating": 4.233333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "delis",
+      "specialty food",
+      "japanese"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 14
+    },
+    "business_ids_count": 15
+  },
+  "North Redington Beach": {
+    "total_restaurants": 7,
+    "avg_rating": 4.285714285714286,
+    "top_cuisines": [
+      "restaurants",
+      "cafes",
+      "nightlife",
+      "bars",
+      "shopping"
+    ],
+    "price_distribution": {
+      "expensive": 4,
+      "luxury": 1,
+      "moderate": 2
+    },
+    "business_ids_count": 7
+  },
+  "North Wales": {
+    "total_restaurants": 15,
+    "avg_rating": 3.9,
+    "top_cuisines": [
+      "restaurants",
+      "event planning & services",
+      "korean",
+      "food",
+      "vietnamese"
+    ],
+    "price_distribution": {
+      "expensive": 9,
+      "moderate": 6
+    },
+    "business_ids_count": 15
+  },
+  "O'Fallon": {
+    "total_restaurants": 11,
+    "avg_rating": 4.090909090909091,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "korean",
+      "japanese",
+      "bars"
+    ],
+    "price_distribution": {
+      "expensive": 8,
+      "moderate": 3
+    },
+    "business_ids_count": 11
+  },
+  "Oaklyn": {
+    "total_restaurants": 5,
+    "avg_rating": 4.4,
+    "top_cuisines": [
+      "restaurants",
+      "american (new)",
+      "bars",
+      "sandwiches",
+      "nightlife"
+    ],
+    "price_distribution": {
+      "expensive": 5
+    },
+    "business_ids_count": 5
+  },
+  "Odessa": {
+    "total_restaurants": 5,
+    "avg_rating": 4.1,
+    "top_cuisines": [
+      "restaurants",
+      "nightlife",
+      "bars",
+      "beer bar",
+      "food"
+    ],
+    "price_distribution": {
+      "expensive": 5
+    },
+    "business_ids_count": 5
+  },
+  "Old Hickory": {
+    "total_restaurants": 11,
+    "avg_rating": 4.2272727272727275,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "sandwiches",
+      "burgers"
+    ],
+    "price_distribution": {
+      "luxury": 3,
+      "expensive": 6,
+      "moderate": 2
+    },
+    "business_ids_count": 11
+  },
+  "Oldsmar": {
+    "total_restaurants": 11,
+    "avg_rating": 4.318181818181818,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "asian fusion",
+      "sushi bars",
+      "vegan"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 7,
+      "moderate": 2
+    },
+    "business_ids_count": 11
+  },
+  "Oro Valley": {
+    "total_restaurants": 12,
+    "avg_rating": 4.083333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "juice bars & smoothies",
+      "coffee & tea",
+      "acai bowls"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 6,
+      "moderate": 4
+    },
+    "business_ids_count": 12
+  },
+  "Palm Harbor": {
+    "total_restaurants": 24,
+    "avg_rating": 4.208333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sushi bars",
+      "bars",
+      "nightlife"
+    ],
+    "price_distribution": {
+      "luxury": 4,
+      "expensive": 17,
+      "moderate": 3
+    },
+    "business_ids_count": 24
+  },
+  "Palmyra": {
+    "total_restaurants": 6,
+    "avg_rating": 4.333333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "salad",
+      "soup",
+      "breakfast & brunch",
+      "food"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 5
+    },
+    "business_ids_count": 6
+  },
+  "Paoli": {
+    "total_restaurants": 10,
+    "avg_rating": 4.15,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "ice cream & frozen yogurt",
+      "pan asian",
+      "desserts"
+    ],
+    "price_distribution": {
+      "expensive": 10
+    },
+    "business_ids_count": 10
+  },
+  "Pennsauken": {
+    "total_restaurants": 7,
+    "avg_rating": 4.357142857142857,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "food trucks",
+      "cheesesteaks",
+      "kebab"
+    ],
+    "price_distribution": {
+      "expensive": 7
+    },
+    "business_ids_count": 7
+  },
+  "Pennsauken Township": {
+    "total_restaurants": 8,
+    "avg_rating": 4.1875,
+    "top_cuisines": [
+      "restaurants",
+      "mexican",
+      "venues & event spaces",
+      "sandwiches",
+      "barbeque"
+    ],
+    "price_distribution": {
+      "expensive": 8
+    },
+    "business_ids_count": 8
+  },
+  "Perkasie": {
+    "total_restaurants": 7,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "breakfast & brunch",
+      "seafood",
+      "american (new)",
+      "american (traditional)"
+    ],
+    "price_distribution": {
+      "expensive": 6,
+      "moderate": 1
+    },
+    "business_ids_count": 7
+  },
+  "Philadelphia": {
+    "total_restaurants": 490,
+    "avg_rating": 4.08265306122449,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "american (new)"
+    ],
+    "price_distribution": {
+      "luxury": 21,
+      "expensive": 366,
+      "moderate": 103
+    },
+    "business_ids_count": 490
+  },
+  "Phoenixville": {
+    "total_restaurants": 20,
+    "avg_rating": 4.175,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "salad",
+      "cafes",
+      "thai"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 16,
+      "moderate": 3
+    },
+    "business_ids_count": 20
+  },
+  "Pinellas Park": {
+    "total_restaurants": 18,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sushi bars",
+      "desserts",
+      "salad"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 14,
+      "moderate": 2
+    },
+    "business_ids_count": 18
+  },
+  "Pitman": {
+    "total_restaurants": 7,
+    "avg_rating": 4.357142857142857,
+    "top_cuisines": [
+      "restaurants",
+      "cafes",
+      "thai",
+      "coffee & tea",
+      "food"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 5,
+      "moderate": 1
+    },
+    "business_ids_count": 7
+  },
+  "Plainfield": {
+    "total_restaurants": 10,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "breakfast & brunch",
+      "coffee & tea",
+      "brewpubs"
+    ],
+    "price_distribution": {
+      "expensive": 7,
+      "moderate": 3
+    },
+    "business_ids_count": 10
+  },
+  "Plant City": {
+    "total_restaurants": 11,
+    "avg_rating": 4.318181818181818,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "donuts",
+      "barbeque",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "luxury": 3,
+      "expensive": 6,
+      "moderate": 2
+    },
+    "business_ids_count": 11
+  },
+  "Plymouth Meeting": {
+    "total_restaurants": 7,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "mediterranean",
+      "sushi bars",
+      "japanese"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 2
+    },
+    "business_ids_count": 7
+  },
+  "Port Richey": {
+    "total_restaurants": 13,
+    "avg_rating": 4.153846153846154,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "thai",
+      "breakfast & brunch",
+      "coffee & tea"
+    ],
+    "price_distribution": {
+      "expensive": 11,
+      "moderate": 2
+    },
+    "business_ids_count": 13
+  },
+  "Pottstown": {
+    "total_restaurants": 17,
+    "avg_rating": 4.176470588235294,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "mediterranean",
+      "italian",
+      "american (traditional)"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 12,
+      "moderate": 3
+    },
+    "business_ids_count": 17
+  },
+  "Prospect Park": {
+    "total_restaurants": 8,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "italian",
+      "hot dogs",
+      "burgers"
+    ],
+    "price_distribution": {
+      "expensive": 8
+    },
+    "business_ids_count": 8
+  },
+  "Quakertown": {
+    "total_restaurants": 15,
+    "avg_rating": 4.233333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "breakfast & brunch",
+      "juice bars & smoothies",
+      "chinese"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 12,
+      "moderate": 2
+    },
+    "business_ids_count": 15
+  },
+  "Redington Shores": {
+    "total_restaurants": 6,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "tex-mex",
+      "sushi bars",
+      "thai"
+    ],
+    "price_distribution": {
+      "expensive": 4,
+      "moderate": 2
+    },
+    "business_ids_count": 6
+  },
+  "Reno": {
+    "total_restaurants": 112,
+    "avg_rating": 4.075892857142857,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "american (new)"
+    ],
+    "price_distribution": {
+      "luxury": 3,
+      "expensive": 85,
+      "moderate": 24
+    },
+    "business_ids_count": 112
+  },
+  "Richboro": {
+    "total_restaurants": 6,
+    "avg_rating": 4.166666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "mexican",
+      "italian",
+      "coffee & tea",
+      "food"
+    ],
+    "price_distribution": {
+      "expensive": 6
+    },
+    "business_ids_count": 6
+  },
+  "Richmond Heights": {
+    "total_restaurants": 7,
+    "avg_rating": 4.071428571428571,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "coffee & tea",
+      "salad",
+      "specialty food"
+    ],
+    "price_distribution": {
+      "expensive": 4,
+      "luxury": 1,
+      "moderate": 2
+    },
+    "business_ids_count": 7
+  },
+  "River Ridge": {
+    "total_restaurants": 7,
+    "avg_rating": 4.142857142857143,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "asian fusion",
+      "sandwiches",
+      "seafood markets"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 6
+    },
+    "business_ids_count": 7
+  },
+  "Riverview": {
+    "total_restaurants": 25,
+    "avg_rating": 4.16,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "coffee & tea",
+      "sandwiches",
+      "thai"
+    ],
+    "price_distribution": {
+      "luxury": 3,
+      "expensive": 18,
+      "moderate": 4
+    },
+    "business_ids_count": 25
+  },
+  "Royersford": {
+    "total_restaurants": 12,
+    "avg_rating": 4.125,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "japanese",
+      "cafes",
+      "sushi bars"
+    ],
+    "price_distribution": {
+      "expensive": 9,
+      "moderate": 3
+    },
+    "business_ids_count": 12
+  },
+  "Runnemede": {
+    "total_restaurants": 5,
+    "avg_rating": 3.9,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "salad",
+      "gay bars",
+      "desserts"
+    ],
+    "price_distribution": {
+      "expensive": 4,
+      "moderate": 1
+    },
+    "business_ids_count": 5
+  },
+  "Ruskin": {
+    "total_restaurants": 8,
+    "avg_rating": 3.9375,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "mediterranean",
+      "greek",
+      "beer"
+    ],
+    "price_distribution": {
+      "expensive": 7,
+      "moderate": 1
+    },
+    "business_ids_count": 8
+  },
+  "Safety Harbor": {
+    "total_restaurants": 11,
+    "avg_rating": 4.181818181818182,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "seafood",
+      "bars"
+    ],
+    "price_distribution": {
+      "expensive": 9,
+      "moderate": 2
+    },
+    "business_ids_count": 11
+  },
+  "Sahuarita": {
+    "total_restaurants": 6,
+    "avg_rating": 4.083333333333333,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "seafood",
+      "mexican",
+      "food trucks"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 3,
+      "moderate": 2
+    },
+    "business_ids_count": 6
+  },
+  "Saint Ann": {
+    "total_restaurants": 8,
+    "avg_rating": 4.4375,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "chicken wings",
+      "barbeque",
+      "korean"
+    ],
+    "price_distribution": {
+      "luxury": 3,
+      "expensive": 4,
+      "moderate": 1
+    },
+    "business_ids_count": 8
+  },
+  "Saint Charles": {
+    "total_restaurants": 16,
+    "avg_rating": 4.21875,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bars",
+      "nightlife",
+      "event planning & services"
+    ],
+    "price_distribution": {
+      "expensive": 13,
+      "luxury": 2,
+      "moderate": 1
+    },
+    "business_ids_count": 16
+  },
+  "Saint Louis": {
+    "total_restaurants": 154,
+    "avg_rating": 4.087662337662338,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "american (new)"
+    ],
+    "price_distribution": {
+      "expensive": 109,
+      "luxury": 10,
+      "moderate": 35
+    },
+    "business_ids_count": 154
+  },
+  "Saint Pete Beach": {
+    "total_restaurants": 8,
+    "avg_rating": 4.0625,
+    "top_cuisines": [
+      "restaurants",
+      "breakfast & brunch",
+      "american (traditional)",
+      "seafood",
+      "vegan"
+    ],
+    "price_distribution": {
+      "expensive": 7,
+      "moderate": 1
+    },
+    "business_ids_count": 8
+  },
+  "Saint Petersburg": {
+    "total_restaurants": 47,
+    "avg_rating": 4.138297872340425,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "american (new)"
+    ],
+    "price_distribution": {
+      "luxury": 4,
+      "expensive": 36,
+      "moderate": 7
+    },
+    "business_ids_count": 47
+  },
+  "San Antonio": {
+    "total_restaurants": 5,
+    "avg_rating": 4.2,
+    "top_cuisines": [
+      "restaurants",
+      "sandwiches",
+      "mexican",
+      "food",
+      "grocery"
+    ],
+    "price_distribution": {
+      "expensive": 3,
+      "luxury": 1,
+      "moderate": 1
+    },
+    "business_ids_count": 5
+  },
+  "Santa Barbara": {
+    "total_restaurants": 65,
+    "avg_rating": 4.2384615384615385,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bars",
+      "nightlife",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "expensive": 44,
+      "luxury": 11,
+      "moderate": 10
+    },
+    "business_ids_count": 65
+  },
+  "Schwenksville": {
+    "total_restaurants": 6,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sandwiches",
+      "salad",
+      "gluten-free"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 4,
+      "moderate": 1
+    },
+    "business_ids_count": 6
+  },
+  "Seffner": {
+    "total_restaurants": 8,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "barbeque",
+      "food trucks",
+      "seafood"
+    ],
+    "price_distribution": {
+      "expensive": 7,
+      "moderate": 1
+    },
+    "business_ids_count": 8
+  },
+  "Sellersville": {
+    "total_restaurants": 6,
+    "avg_rating": 3.8333333333333335,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "american (new)",
+      "cafes",
+      "hotels & travel"
+    ],
+    "price_distribution": {
+      "expensive": 4,
+      "moderate": 2
+    },
+    "business_ids_count": 6
+  },
+  "Seminole": {
+    "total_restaurants": 16,
+    "avg_rating": 4.09375,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "barbeque",
+      "breakfast & brunch",
+      "salad"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 11,
+      "moderate": 4
+    },
+    "business_ids_count": 16
+  },
+  "Sewell": {
+    "total_restaurants": 13,
+    "avg_rating": 3.8846153846153846,
+    "top_cuisines": [
+      "restaurants",
+      "burgers",
+      "american (new)",
+      "thai",
+      "delis"
+    ],
+    "price_distribution": {
+      "expensive": 8,
+      "moderate": 5
+    },
+    "business_ids_count": 13
+  },
+  "Shamong": {
+    "total_restaurants": 5,
+    "avg_rating": 4.2,
+    "top_cuisines": [
+      "restaurants",
+      "american (traditional)",
+      "southern",
+      "barbeque",
+      "nightlife"
+    ],
+    "price_distribution": {
+      "expensive": 5
+    },
+    "business_ids_count": 5
+  },
+  "Sherwood Park": {
+    "total_restaurants": 8,
+    "avg_rating": 4.5,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "pizza",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 7
+    },
+    "business_ids_count": 8
+  },
+  "Sicklerville": {
+    "total_restaurants": 9,
+    "avg_rating": 3.8333333333333335,
+    "top_cuisines": [
+      "restaurants",
+      "mexican",
+      "japanese",
+      "chinese",
+      "latin american"
+    ],
+    "price_distribution": {
+      "expensive": 3,
+      "moderate": 6
+    },
+    "business_ids_count": 9
+  },
+  "Skippack": {
+    "total_restaurants": 10,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "coffee & tea"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 5,
+      "moderate": 4
+    },
+    "business_ids_count": 10
+  },
+  "Smyrna": {
+    "total_restaurants": 20,
+    "avg_rating": 4.125,
+    "top_cuisines": [
+      "restaurants",
+      "greek",
+      "food",
+      "thai",
+      "mediterranean"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 16,
+      "moderate": 3
+    },
+    "business_ids_count": 20
+  },
+  "Somerdale": {
+    "total_restaurants": 6,
+    "avg_rating": 4.166666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "grocery",
+      "coffee & tea",
+      "delis"
+    ],
+    "price_distribution": {
+      "expensive": 6
+    },
+    "business_ids_count": 6
+  },
+  "Souderton": {
+    "total_restaurants": 8,
+    "avg_rating": 4.1875,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "coffee & tea",
+      "asian fusion",
+      "noodles"
+    ],
+    "price_distribution": {
+      "expensive": 8
+    },
+    "business_ids_count": 8
+  },
+  "South Pasadena": {
+    "total_restaurants": 6,
+    "avg_rating": 3.8333333333333335,
+    "top_cuisines": [
+      "restaurants",
+      "italian",
+      "seafood",
+      "burgers",
+      "soup"
+    ],
+    "price_distribution": {
+      "expensive": 4,
+      "moderate": 2
+    },
+    "business_ids_count": 6
+  },
+  "Southampton": {
+    "total_restaurants": 13,
+    "avg_rating": 4.153846153846154,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sandwiches",
+      "desserts",
+      "american (traditional)"
+    ],
+    "price_distribution": {
+      "expensive": 11,
+      "moderate": 2
+    },
+    "business_ids_count": 13
+  },
+  "Sparks": {
+    "total_restaurants": 30,
+    "avg_rating": 4.183333333333334,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "specialty food",
+      "nightlife",
+      "bars"
+    ],
+    "price_distribution": {
+      "luxury": 3,
+      "expensive": 21,
+      "moderate": 6
+    },
+    "business_ids_count": 30
+  },
+  "Speedway": {
+    "total_restaurants": 7,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "farmers market",
+      "cafes",
+      "coffee & tea"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 3,
+      "moderate": 3
+    },
+    "business_ids_count": 7
+  },
+  "Spring City": {
+    "total_restaurants": 6,
+    "avg_rating": 4.166666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "caribbean",
+      "puerto rican",
+      "mexican"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 4,
+      "moderate": 1
+    },
+    "business_ids_count": 6
+  },
+  "Spring Hill": {
+    "total_restaurants": 15,
+    "avg_rating": 4.1,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bakeries",
+      "greek",
+      "delis"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 12,
+      "moderate": 2
+    },
+    "business_ids_count": 15
+  },
+  "Spring House": {
+    "total_restaurants": 5,
+    "avg_rating": 3.6,
+    "top_cuisines": [
+      "restaurants",
+      "sandwiches",
+      "barbeque",
+      "sushi bars",
+      "buffets"
+    ],
+    "price_distribution": {
+      "moderate": 4,
+      "expensive": 1
+    },
+    "business_ids_count": 5
+  },
+  "Springfield": {
+    "total_restaurants": 18,
+    "avg_rating": 4.027777777777778,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "salad",
+      "sushi bars",
+      "steakhouses"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 12,
+      "moderate": 5
+    },
+    "business_ids_count": 18
+  },
+  "St Albert": {
+    "total_restaurants": 9,
+    "avg_rating": 4.111111111111111,
+    "top_cuisines": [
+      "restaurants",
+      "bars",
+      "canadian (new)",
+      "lounges",
+      "nightlife"
+    ],
+    "price_distribution": {
+      "expensive": 8,
+      "moderate": 1
+    },
+    "business_ids_count": 9
+  },
+  "St Charles": {
+    "total_restaurants": 7,
+    "avg_rating": 4.142857142857143,
+    "top_cuisines": [
+      "restaurants",
+      "specialty food",
+      "food",
+      "nightlife",
+      "bars"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 2
+    },
+    "business_ids_count": 7
+  },
+  "St Louis": {
+    "total_restaurants": 21,
+    "avg_rating": 4.285714285714286,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "cocktail bars"
+    ],
+    "price_distribution": {
+      "expensive": 17,
+      "luxury": 2,
+      "moderate": 2
+    },
+    "business_ids_count": 21
+  },
+  "St Pete Beach": {
+    "total_restaurants": 9,
+    "avg_rating": 4.222222222222222,
+    "top_cuisines": [
+      "restaurants",
+      "breakfast & brunch",
+      "food",
+      "nightlife",
+      "bars"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 5,
+      "moderate": 2
+    },
+    "business_ids_count": 9
+  },
+  "St Petersburg": {
+    "total_restaurants": 17,
+    "avg_rating": 4.088235294117647,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "cafes"
+    ],
+    "price_distribution": {
+      "expensive": 13,
+      "moderate": 4
+    },
+    "business_ids_count": 17
+  },
+  "St. Albert": {
+    "total_restaurants": 11,
+    "avg_rating": 4.136363636363637,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "salad",
+      "sushi bars",
+      "bistros"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 8,
+      "moderate": 2
+    },
+    "business_ids_count": 11
+  },
+  "St. Louis": {
+    "total_restaurants": 54,
+    "avg_rating": 4.342592592592593,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bars",
+      "nightlife",
+      "american (new)"
+    ],
+    "price_distribution": {
+      "luxury": 10,
+      "expensive": 39,
+      "moderate": 5
+    },
+    "business_ids_count": 54
+  },
+  "St. Pete Beach": {
+    "total_restaurants": 12,
+    "avg_rating": 3.9583333333333335,
+    "top_cuisines": [
+      "restaurants",
+      "breakfast & brunch",
+      "mediterranean",
+      "nightlife",
+      "bars"
+    ],
+    "price_distribution": {
+      "expensive": 9,
+      "moderate": 3
+    },
+    "business_ids_count": 12
+  },
+  "St. Petersburg": {
+    "total_restaurants": 37,
+    "avg_rating": 4.27027027027027,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "american (new)"
+    ],
+    "price_distribution": {
+      "luxury": 6,
+      "expensive": 27,
+      "moderate": 4
+    },
+    "business_ids_count": 37
+  },
+  "Stratford": {
+    "total_restaurants": 6,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "pakistani",
+      "indian",
+      "buffets"
+    ],
+    "price_distribution": {
+      "expensive": 6
+    },
+    "business_ids_count": 6
+  },
+  "Summerland": {
+    "total_restaurants": 7,
+    "avg_rating": 3.857142857142857,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "american (traditional)",
+      "breakfast & brunch",
+      "burgers"
+    ],
+    "price_distribution": {
+      "expensive": 5,
+      "moderate": 2
+    },
+    "business_ids_count": 7
+  },
+  "Swansea": {
+    "total_restaurants": 5,
+    "avg_rating": 4.4,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "southern",
+      "food trucks",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 4
+    },
+    "business_ids_count": 5
+  },
+  "Swedesboro": {
+    "total_restaurants": 10,
+    "avg_rating": 3.9,
+    "top_cuisines": [
+      "restaurants",
+      "diners",
+      "italian",
+      "mexican",
+      "indian"
+    ],
+    "price_distribution": {
+      "expensive": 7,
+      "moderate": 3
+    },
+    "business_ids_count": 10
+  },
+  "Tampa": {
+    "total_restaurants": 241,
+    "avg_rating": 4.155601659751038,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sandwiches",
+      "american (traditional)",
+      "pizza"
+    ],
+    "price_distribution": {
+      "luxury": 19,
+      "expensive": 181,
+      "moderate": 41
+    },
+    "business_ids_count": 241
+  },
+  "Tampa Bay": {
+    "total_restaurants": 12,
+    "avg_rating": 4.416666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "food trucks",
+      "vegan",
+      "desserts"
+    ],
+    "price_distribution": {
+      "luxury": 5,
+      "expensive": 6,
+      "moderate": 1
+    },
+    "business_ids_count": 12
+  },
+  "Tarpon Springs": {
+    "total_restaurants": 16,
+    "avg_rating": 4.3125,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "greek",
+      "nightlife",
+      "american (new)"
+    ],
+    "price_distribution": {
+      "expensive": 15,
+      "luxury": 1
+    },
+    "business_ids_count": 16
+  },
+  "Telford": {
+    "total_restaurants": 7,
+    "avg_rating": 4.285714285714286,
+    "top_cuisines": [
+      "restaurants",
+      "mexican",
+      "italian",
+      "vietnamese",
+      "barbeque"
+    ],
+    "price_distribution": {
+      "expensive": 6,
+      "luxury": 1
+    },
+    "business_ids_count": 7
+  },
+  "Temple Terrace": {
+    "total_restaurants": 13,
+    "avg_rating": 4.115384615384615,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "seafood",
+      "bakeries",
+      "mediterranean"
+    ],
+    "price_distribution": {
+      "expensive": 11,
+      "moderate": 2
+    },
+    "business_ids_count": 13
+  },
+  "Terrytown": {
+    "total_restaurants": 7,
+    "avg_rating": 4.142857142857143,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "vietnamese",
+      "coffee & tea",
+      "chinese"
+    ],
+    "price_distribution": {
+      "expensive": 6,
+      "moderate": 1
+    },
+    "business_ids_count": 7
+  },
+  "Thorndale": {
+    "total_restaurants": 5,
+    "avg_rating": 3.9,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "convenience stores",
+      "sandwiches",
+      "coffee & tea"
+    ],
+    "price_distribution": {
+      "expensive": 3,
+      "moderate": 2
+    },
+    "business_ids_count": 5
+  },
+  "Tierra Verde": {
+    "total_restaurants": 6,
+    "avg_rating": 4.5,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bars",
+      "nightlife",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "expensive": 6
+    },
+    "business_ids_count": 6
+  },
+  "Treasure Island": {
+    "total_restaurants": 5,
+    "avg_rating": 4.4,
+    "top_cuisines": [
+      "restaurants",
+      "breakfast & brunch",
+      "desserts",
+      "food",
+      "mexican"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 4
+    },
+    "business_ids_count": 5
+  },
+  "Trenton": {
+    "total_restaurants": 19,
+    "avg_rating": 4.105263157894737,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "delis",
+      "mexican",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "expensive": 15,
+      "moderate": 4
+    },
+    "business_ids_count": 19
+  },
+  "Trevose": {
+    "total_restaurants": 5,
+    "avg_rating": 4.2,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "mexican",
+      "tex-mex",
+      "ice cream & frozen yogurt"
+    ],
+    "price_distribution": {
+      "expensive": 5
+    },
+    "business_ids_count": 5
+  },
+  "Trinity": {
+    "total_restaurants": 6,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "breakfast & brunch",
+      "juice bars & smoothies",
+      "salad"
+    ],
+    "price_distribution": {
+      "expensive": 3,
+      "moderate": 3
+    },
+    "business_ids_count": 6
+  },
+  "Tucson": {
+    "total_restaurants": 204,
+    "avg_rating": 4.026960784313726,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "american (traditional)"
+    ],
+    "price_distribution": {
+      "expensive": 146,
+      "luxury": 6,
+      "moderate": 52
+    },
+    "business_ids_count": 204
+  },
+  "Turnersville": {
+    "total_restaurants": 8,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "event planning & services",
+      "caterers",
+      "food",
+      "chicken shop"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 6,
+      "moderate": 1
+    },
+    "business_ids_count": 8
+  },
+  "University City": {
+    "total_restaurants": 10,
+    "avg_rating": 4.2,
+    "top_cuisines": [
+      "restaurants",
+      "gluten-free",
+      "nightlife",
+      "bars",
+      "food"
+    ],
+    "price_distribution": {
+      "expensive": 9,
+      "moderate": 1
+    },
+    "business_ids_count": 10
+  },
+  "Upper Darby": {
+    "total_restaurants": 18,
+    "avg_rating": 4.305555555555555,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "vietnamese",
+      "korean",
+      "nightlife"
+    ],
+    "price_distribution": {
+      "expensive": 16,
+      "luxury": 2
+    },
+    "business_ids_count": 18
+  },
+  "Vail": {
+    "total_restaurants": 5,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bars",
+      "nightlife",
+      "mexican"
+    ],
+    "price_distribution": {
+      "expensive": 3,
+      "moderate": 2
+    },
+    "business_ids_count": 5
+  },
+  "Valley Park": {
+    "total_restaurants": 7,
+    "avg_rating": 4.214285714285714,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "japanese",
+      "sporting goods",
+      "shopping"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 3,
+      "moderate": 2
+    },
+    "business_ids_count": 7
+  },
+  "Valrico": {
+    "total_restaurants": 14,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sushi bars",
+      "thai",
+      "asian fusion"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 12,
+      "moderate": 1
+    },
+    "business_ids_count": 14
+  },
+  "Villanova": {
+    "total_restaurants": 5,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "juice bars & smoothies",
+      "bubble tea",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "expensive": 4,
+      "moderate": 1
+    },
+    "business_ids_count": 5
+  },
+  "Virginia City": {
+    "total_restaurants": 5,
+    "avg_rating": 4.4,
+    "top_cuisines": [
+      "restaurants",
+      "event planning & services",
+      "food",
+      "beer",
+      "wine & spirits"
+    ],
+    "price_distribution": {
+      "expensive": 5
+    },
+    "business_ids_count": 5
+  },
+  "Voorhees": {
+    "total_restaurants": 13,
+    "avg_rating": 3.923076923076923,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "seafood",
+      "specialty food",
+      "italian"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 7,
+      "moderate": 5
+    },
+    "business_ids_count": 13
+  },
+  "Voorhees Township": {
+    "total_restaurants": 7,
+    "avg_rating": 3.857142857142857,
+    "top_cuisines": [
+      "restaurants",
+      "sushi bars",
+      "japanese",
+      "burgers",
+      "hot dogs"
+    ],
+    "price_distribution": {
+      "expensive": 4,
+      "moderate": 3
+    },
+    "business_ids_count": 7
+  },
+  "Warminster": {
+    "total_restaurants": 13,
+    "avg_rating": 4.3076923076923075,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "cafes",
+      "bakeries",
+      "event planning & services"
+    ],
+    "price_distribution": {
+      "expensive": 13
+    },
+    "business_ids_count": 13
+  },
+  "Warrington": {
+    "total_restaurants": 11,
+    "avg_rating": 4.045454545454546,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "breakfast & brunch",
+      "bars",
+      "nightlife"
+    ],
+    "price_distribution": {
+      "expensive": 6,
+      "luxury": 1,
+      "moderate": 4
+    },
+    "business_ids_count": 11
+  },
+  "Washington Crossing": {
+    "total_restaurants": 5,
+    "avg_rating": 4.1,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "event planning & services",
+      "american (new)",
+      "venues & event spaces"
+    ],
+    "price_distribution": {
+      "expensive": 5
+    },
+    "business_ids_count": 5
+  },
+  "Waterloo": {
+    "total_restaurants": 6,
+    "avg_rating": 4.416666666666667,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "bakeries",
+      "tex-mex",
+      "mexican"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 5
+    },
+    "business_ids_count": 6
+  },
+  "Wayne": {
+    "total_restaurants": 18,
+    "avg_rating": 3.9166666666666665,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "event planning & services",
+      "american (traditional)",
+      "cafes"
+    ],
+    "price_distribution": {
+      "expensive": 12,
+      "moderate": 6
+    },
+    "business_ids_count": 18
+  },
+  "Webster Groves": {
+    "total_restaurants": 11,
+    "avg_rating": 4.2727272727272725,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "thai",
+      "sushi bars",
+      "food trucks"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 7,
+      "moderate": 2
+    },
+    "business_ids_count": 11
+  },
+  "Wesley Chapel": {
+    "total_restaurants": 16,
+    "avg_rating": 4.09375,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "specialty food",
+      "desserts",
+      "japanese"
+    ],
+    "price_distribution": {
+      "expensive": 13,
+      "moderate": 3
+    },
+    "business_ids_count": 16
+  },
+  "West Berlin": {
+    "total_restaurants": 5,
+    "avg_rating": 3.7,
+    "top_cuisines": [
+      "restaurants",
+      "american (traditional)",
+      "salad",
+      "japanese",
+      "beer"
+    ],
+    "price_distribution": {
+      "expensive": 2,
+      "moderate": 3
+    },
+    "business_ids_count": 5
+  },
+  "West Chester": {
+    "total_restaurants": 31,
+    "avg_rating": 4.080645161290323,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sandwiches",
+      "japanese",
+      "mediterranean"
+    ],
+    "price_distribution": {
+      "luxury": 3,
+      "expensive": 21,
+      "moderate": 7
+    },
+    "business_ids_count": 31
+  },
+  "Westmont": {
+    "total_restaurants": 6,
+    "avg_rating": 3.75,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "italian",
+      "juice bars & smoothies",
+      "vegan"
+    ],
+    "price_distribution": {
+      "expensive": 3,
+      "moderate": 3
+    },
+    "business_ids_count": 6
+  },
+  "Westwego": {
+    "total_restaurants": 8,
+    "avg_rating": 4.375,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "burgers",
+      "chicken wings",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 6
+    },
+    "business_ids_count": 8
+  },
+  "Whitestown": {
+    "total_restaurants": 5,
+    "avg_rating": 3.9,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "barbeque",
+      "brewpubs",
+      "event planning & services"
+    ],
+    "price_distribution": {
+      "expensive": 3,
+      "moderate": 2
+    },
+    "business_ids_count": 5
+  },
+  "Williamstown": {
+    "total_restaurants": 10,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "seafood",
+      "italian",
+      "event planning & services",
+      "breakfast & brunch"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 5,
+      "moderate": 3
+    },
+    "business_ids_count": 10
+  },
+  "Willingboro": {
+    "total_restaurants": 5,
+    "avg_rating": 4.1,
+    "top_cuisines": [
+      "restaurants",
+      "chicken wings",
+      "mediterranean",
+      "international grocery",
+      "specialty food"
+    ],
+    "price_distribution": {
+      "expensive": 4,
+      "moderate": 1
+    },
+    "business_ids_count": 5
+  },
+  "Willow Grove": {
+    "total_restaurants": 16,
+    "avg_rating": 3.96875,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "desserts",
+      "vietnamese",
+      "thai"
+    ],
+    "price_distribution": {
+      "expensive": 12,
+      "moderate": 4
+    },
+    "business_ids_count": 16
+  },
+  "Wilmington": {
+    "total_restaurants": 58,
+    "avg_rating": 4.112068965517241,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "sandwiches",
+      "juice bars & smoothies",
+      "coffee & tea"
+    ],
+    "price_distribution": {
+      "luxury": 4,
+      "expensive": 44,
+      "moderate": 10
+    },
+    "business_ids_count": 58
+  },
+  "Woodbury": {
+    "total_restaurants": 5,
+    "avg_rating": 4.1,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "food delivery services",
+      "vietnamese",
+      "delis"
+    ],
+    "price_distribution": {
+      "expensive": 4,
+      "moderate": 1
+    },
+    "business_ids_count": 5
+  },
+  "Wyndmoor": {
+    "total_restaurants": 5,
+    "avg_rating": 4.4,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "salad",
+      "gastropubs",
+      "sandwiches"
+    ],
+    "price_distribution": {
+      "luxury": 1,
+      "expensive": 4
+    },
+    "business_ids_count": 5
+  },
+  "Wynnewood": {
+    "total_restaurants": 9,
+    "avg_rating": 4.055555555555555,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "asian fusion",
+      "juice bars & smoothies",
+      "salad"
+    ],
+    "price_distribution": {
+      "expensive": 7,
+      "moderate": 2
+    },
+    "business_ids_count": 9
+  },
+  "Yardley": {
+    "total_restaurants": 12,
+    "avg_rating": 4.25,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "delis",
+      "coffee & tea",
+      "desserts"
+    ],
+    "price_distribution": {
+      "expensive": 12
+    },
+    "business_ids_count": 12
+  },
+  "Zephyrhills": {
+    "total_restaurants": 10,
+    "avg_rating": 4.3,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "thai",
+      "breakfast & brunch",
+      "noodles"
+    ],
+    "price_distribution": {
+      "luxury": 2,
+      "expensive": 6,
+      "moderate": 2
+    },
+    "business_ids_count": 10
+  },
+  "Zionsville": {
+    "total_restaurants": 11,
+    "avg_rating": 4.0,
+    "top_cuisines": [
+      "restaurants",
+      "food",
+      "nightlife",
+      "bars",
+      "japanese"
+    ],
+    "price_distribution": {
+      "expensive": 8,
+      "moderate": 3
+    },
+    "business_ids_count": 11
+  }
+}
