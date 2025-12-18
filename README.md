@@ -1,4 +1,4 @@
-# Travel Planner & Recommendation System
+# Recommendation System
 
 Hệ thống AI-powered travel planning với BGE-M3 embeddings và FAISS vector search.
 
@@ -20,7 +20,7 @@ python start_server.py
 ## Project Structure
 
 ```
-Travel_Planner/
+Restaurant_recommendation_system/
 ├── main.py                 # FastAPI main application
 ├── start_simple.py         # Quick start server
 ├── start_server.py         # Full server with preload
