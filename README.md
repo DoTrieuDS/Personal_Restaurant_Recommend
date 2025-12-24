@@ -1,6 +1,6 @@
 # Recommendation System
 
-Hệ thống AI-powered travel planning với BGE-M3 embeddings và FAISS vector search.
+Hệ thống AI-powered personalize restaurant recommendation với BGE-M3 embeddings và FAISS vector search.
 
 ## Quick Start
 
